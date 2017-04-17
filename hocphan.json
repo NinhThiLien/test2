@@ -1,0 +1,226 @@
+"Mã học phần:"[
+{
+	"Mã học phần":"TEX5163",
+	"Tên học phần":"Quá tình sản xuất xơ sợi nhân tạo",
+	"Thời lượng":"2(2-0-1-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"3.5",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX3104",
+	"Tên học phần":"Đồ án thiết kế",
+	"Thời lượng":"3(0-0-6-6)",
+	"Số tín chỉ":"3",
+	"TC học phí":"6",
+	"Trọng số":"0.5"
+},
+
+{
+	"Mã học phần":"TEX4005",
+	"Tên học phần":"Hình họa thời trang cơ bản",
+	"Thời lượng":"2(0-0-4-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"6",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4015",
+	"Tên học phần":"Mỹ thuật trang phục",
+	"Thời lượng":"3(1-0-4-6)",
+	"Số tín chỉ":"3",
+	"TC học phí":"7",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4025",
+	"Tên học phần":"Hình họa thời trang nâng cao",
+	"Thời lượng":"2(0-0-4-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"6",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4035",
+	"Tên học phần":"Lịch sử trang phục",
+	"Thời lượng":"2(1-2-0-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"3",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4045",
+	"Tên học phần":"Phát triển ý tưởng thời trang",
+	"Thời lượng":"3(0-0-6-6)",
+	"Số tín chỉ":"3",
+	"TC học phí":"9",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4055",
+	"Tên học phần":"Thiết kế thời trang theo chuyên đề",
+	"Thời lượng":"2(1-0-2-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"4",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4065",
+	"Tên học phần":"Tin học trong ứng dụng thiết kế thời trang",
+	"Thời lượng":"2(0-0-4-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"6",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4075",
+	"Tên học phần":"Lịch sử thiết kế mỹ thuật",
+	"Thời lượng":"2(2-1-0-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"3",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4085",
+	"Tên học phần":"Trình diễn thời trang",
+	"Thời lượng":"2(1-2-0-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"3",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4095",
+	"Tên học phần":"Thương hiệu thời trang",
+	"Thời lượng":"2(1-2-0-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"3",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4105",
+	"Tên học phần":"Tâm lý và hành vi khách hàng thời trang",
+	"Thời lượng":"2(1-2-0-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"3",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX4115",
+	"Tên học phần":"Kỹ thuật trang trí sản phẩm thời trang",
+	"Thời lượng":"2(1-2-0-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"3",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX5005",
+	"Tên học phần":"Đồ họa quảng cáo thời trang",
+	"Thời lượng":"2(0-0-4-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"6",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX5015",
+	"Tên học phần":"Dự báo xu hướng thời trang",
+	"Thời lượng":"2(1-2-0-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"3",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX5025",
+	"Tên học phần":"Tạo mẫu thời trang mang phong cách dân tộc",
+	"Thời lượng":"3(1-4-0-6)",
+	"Số tín chỉ":"3",
+	"TC học phí":"5",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX5035",
+	"Tên học phần":"Tạo mẫu thời trang 3D",
+	"Thời lượng":"2(0-0-4-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"6",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX5045",
+	"Tên học phần":"Thiết kế bộ sưu tập thời trang công nghiệp",
+	"Thời lượng":"2(2-1-0-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"3",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX5055",
+	"Tên học phần":"Đồ án thiết kế thời trang công nghiệp",
+	"Thời lượng":"3(0-0-6-6)",
+	"Số tín chỉ":"3",
+	"TC học phí":"9",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX5065",
+	"Tên học phần":"Tạo mẫu phụ trang",
+	"Thời lượng":"2(1-0-2-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"4",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX5075",
+	"Tên học phần":"Thiết kế phụ trang",
+	"Thời lượng":"2(0-0-4-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"6",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX5095",
+	"Tên học phần":"Phong cách thời trang",
+	"Thời lượng":"2(1-0-2-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"4",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX3040",
+	"Tên học phần":"Tiếng Anh CN dệt may",
+	"Thời lượng":"3(3-1-0-6)",
+	"Số tín chỉ":"3",
+	"TC học phí":"4",
+	"Trọng số":"0.7"
+},
+
+{
+	"Mã học phần":"TEX3060",
+	"Tên học phần":"Thực hành kiểm tra và phân tích vật liệu dệt may",
+	"Thời lượng":"2(0-0-4-4)",
+	"Số tín chỉ":"2",
+	"TC học phí":"6",
+	"Trọng số":"0.7"
+}
+]
